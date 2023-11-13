@@ -2,7 +2,7 @@
 - 👀 I’m interested in Github
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Project Space
-- 📫 How to reach me 50004736@serc.ac.uk
+- 📫 How to reach me j.maguire.2000@gmail.com
 
 THIS BIT IS EDITED
 
