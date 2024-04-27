@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jammymufc
-- 👀 I’m interested in Github
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Project Space
+- Current Student at Ulster University Belfast, BEng Software Engineering
 - 📫 How to reach me j.maguire.2000@gmail.com
 
 THIS BIT IS EDITED
