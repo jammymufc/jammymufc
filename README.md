@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jammymufc
-- Current Student at Ulster University Belfast, BEng Software Engineering
+- Current Student at Ulster University Belfast, MSc AI
 - 📫 How to reach me j.maguire.2000@gmail.com
 
 <!---
